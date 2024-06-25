@@ -1,7 +1,8 @@
 body {
-    background-image: url(./modern-apartment-with-bold-bright-walls-perfect-showcasing-your-art-collection-min.jpg);
+    background: url(./modern-apartment-with-bold-bright-walls-perfect-showcasing-your-art-collection-min.jpg), grey;
     background-size: cover;
     display: block;
+    background-blend-mode: darken;
 }
 
 .navbar {
